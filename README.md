@@ -9,14 +9,9 @@ Physiotherapy Clinic App is an application designed to manage and optimize the o
 ## Features
 
 - **Appointment Management**: Easily schedule and manage appointments.
-- **Medical History**: Maintain detailed records of patients' medical histories.
-- **Treatment Tracking**: Monitor the progress of treatments.
-- **Notifications**: Receive appointment reminders and follow-up notifications.
-
-## Screenshots
-
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
+- **Medical News**: Features with interactive UI desings.
+- **Firebase Authentication**: Use of Firebase and Firestore to auth accounts and store data.
+- **Admin Rol**: Superadmin rol to add and delete accounts registered on the app.
 
 ## Installation
 
